@@ -2,7 +2,7 @@
 :root {
     --preto: #000;
     --branco: #fff;
-    --lilas-claro: #c7c3c6;
+    --lilas-claro: #e4dee2;
     --azul-médio: #2f4dd1;
     --amarelo:#cfe80d;
 }
@@ -50,7 +50,7 @@ margin-right: 20px;
 }
 
 .chamada {
-background: rgb(184, 156, 213);
+background: rgb(186, 184, 189);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
